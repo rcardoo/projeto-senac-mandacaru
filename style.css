@@ -336,7 +336,8 @@ footer p {
     gap: 0px;
   }
   main #boaspraticas #boaspraticas-contents {
-    height: 130vh;
+    height: 1200px;
+    justify-content: space-around;
   }
   main #boaspraticas .textos-info {
     height: 60%;
